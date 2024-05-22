@@ -1,6 +1,6 @@
 #1
 # c_lst = []
-# for i in range(10):
+# for i in range(1, 11):
 #     c_lst.append(i)
 # c = tuple(c_lst)
 # for i in c:
